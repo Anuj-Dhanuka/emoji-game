@@ -1,0 +1,24 @@
+/* Write your code here. */
+.emoji-game-container {
+  background-image: linear-gradient(#6a59ff, #fbc7d4);
+  height: 100vh;
+}
+
+.emoji-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+}
+
+.emoji-ul-list-container {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 60%;
+  margin-top: 60px;
+}
